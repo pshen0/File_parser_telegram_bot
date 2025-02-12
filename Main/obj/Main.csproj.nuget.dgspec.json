@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Main/Main.csproj": {}
+  },
+  "projects": {
+    "/Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Class_Library/Class_Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Class_Library/Class_Library.csproj",
+        "projectName": "Class_Library",
+        "projectPath": "/Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Class_Library/Class_Library.csproj",
+        "packagesPath": "/Users/anya_psheno/.nuget/packages/",
+        "outputPath": "/Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Class_Library/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/anya_psheno/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[19.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.428/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Main/Main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Main/Main.csproj",
+        "projectName": "Main",
+        "projectPath": "/Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Main/Main.csproj",
+        "packagesPath": "/Users/anya_psheno/.nuget/packages/",
+        "outputPath": "/Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Main/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/anya_psheno/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Class_Library/Class_Library.csproj": {
+                "projectPath": "/Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Class_Library/Class_Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[19.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.428/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

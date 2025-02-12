@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BVfuTGgij0O8M5Z/zm2i7b6mzxZLaaMQ317MSHZx+XXhfzQrSyvXCfKMoplk9v7vD1CLajakP9avwwkAoqeptA==",
+  "success": true,
+  "projectFilePath": "/Users/sazonovaanna/Projects/HW_3_3_Sazonova_Anna_6/TelegramBot/TelegramBot.csproj",
+  "expectedPackageFiles": [
+    "/Users/sazonovaanna/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/sazonovaanna/.nuget/packages/telegram.bot/19.0.0/telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

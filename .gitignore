@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+
+# Windows Installer logs
+*.log
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# macOS
+.DS_Store
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]istro/
+[Dd]ebugFull/
+[Dd]ebug-/

@@ -52,9 +52,10 @@
 /Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Main/obj/Debug/net6.0/Main.AssemblyInfoInputs.cache
 /Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Main/obj/Debug/net6.0/Main.AssemblyInfo.cs
 /Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Main/obj/Debug/net6.0/Main.csproj.CoreCompileInputs.cache
-/Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Main/obj/Debug/net6.0/Main.csproj.CopyComplete
 /Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Main/obj/Debug/net6.0/Main.dll
 /Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Main/obj/Debug/net6.0/refint/Main.dll
 /Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Main/obj/Debug/net6.0/Main.pdb
 /Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Main/obj/Debug/net6.0/Main.genruntimeconfig.cache
 /Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Main/obj/Debug/net6.0/ref/Main.dll
+/Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Main/obj/Debug/net6.0/Main.sourcelink.json
+/Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Main/obj/Debug/net6.0/Main.csproj.Up2Date

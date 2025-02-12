@@ -39,7 +39,10 @@
           "Telegram.Bot": "19.0.0"
         },
         "runtime": {
-          "Class_Library.dll": {}
+          "Class_Library.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

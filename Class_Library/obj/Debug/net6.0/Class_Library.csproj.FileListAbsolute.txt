@@ -34,3 +34,4 @@
 /Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Class_Library/obj/Debug/net6.0/refint/Class_Library.dll
 /Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Class_Library/obj/Debug/net6.0/Class_Library.pdb
 /Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Class_Library/obj/Debug/net6.0/ref/Class_Library.dll
+/Users/anya_psheno/hse/csharp/File_parser_telegram_bot/Class_Library/obj/Debug/net6.0/Class_Library.sourcelink.json

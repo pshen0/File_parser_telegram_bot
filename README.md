@@ -15,7 +15,7 @@ The training project for developing a telegram bot on c#
 ```dotnet build```
 
 5. Запустите проект
-```dotnet run --project Main/Main.csproj```
+```$ dotnet run --project Main/Main.csproj```
 
 6. После запуска проекта откройте Telegram и запустите бот ```@electrocar_power_sazonova_bot```
 

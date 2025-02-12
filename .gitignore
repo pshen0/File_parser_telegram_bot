@@ -24,3 +24,7 @@
 [Dd]istro/
 [Dd]ebugFull/
 [Dd]ebug-/
+
+# Results
+*.csv
+*.json

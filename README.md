@@ -2,7 +2,7 @@
 The training project for developing a telegram bot on c#
 
 ## Установка и использование проекта
-1. Клонируйте репозиторий 
+1. Клонируйте репозиторий
 ```git clone https://github.com/pshen0/File_parser_telegram_bot```
 
 2. Откройте папку с репозиторием
